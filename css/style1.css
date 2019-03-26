@@ -1,0 +1,24 @@
+#cat {
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 10px 25px;
+}
+
+p {
+    display: inline
+}
+
+.card-body {
+    margin-top: -100px;
+    opacity: 0.9;
+    background-color: teal;
+    color: white;
+}
+
+#IDCaption {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 30px;
+    text-align: center;
+    font-size: 22px;
+}
