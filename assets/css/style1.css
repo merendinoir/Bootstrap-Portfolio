@@ -51,8 +51,7 @@ h3 {
 
 /* play with the margin bottom to try increasing the height of the page */
 
-#cat {
-    width: 200px;
+#profilePic {
     height: 150px;
     float: left;
     margin: 10px 25px;
